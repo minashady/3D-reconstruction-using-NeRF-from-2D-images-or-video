@@ -39,13 +39,13 @@ Need libraries
     
 ## Screenshots
 Project Flow
-![Project Flow](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Project Flow](https://github.com/minashady/assets/blob/main/Updated%20block-diagram2.png)
 Results Samples
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Furniture dataset](https://github.com/minashady/assets/blob/main/furnitureDataset.png)
 Results Samples
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Items dataset](https://github.com/minashady/assets/blob/main/itemsDataset.png)
 Results Samples
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Items dataset](https://github.com/minashady/assets/blob/main/Items2Dataset.png)
 
 
 ## Reasearch paper
